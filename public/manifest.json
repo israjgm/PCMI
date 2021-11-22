@@ -1,0 +1,74 @@
+{
+    "short_name": "PCMI",
+    "name": "PCMI",
+    "start_url": "/",
+    "background_color": "#5DCCE2",
+    "theme_color": "#5DCCE2",
+    "display": "standalone",
+    "orientation": "portrait",
+    "status_bar": "black",
+    "icons": [{
+            "src": "/img/icons/icon_72px.png",
+            "type": "image/png",
+            "sizes": "72x72",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/img/icons/icon_96px.png",
+            "type": "image/png",
+            "sizes": "96x96",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/img/icons/icon_128px.png",
+            "type": "image/png",
+            "sizes": "128x128",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/img/icons/icon_144px.png",
+            "type": "image/png",
+            "sizes": "144x144",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/img/icons/icon_152px.png",
+            "type": "image/png",
+            "sizes": "152x152",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/img/icons/icon_192px.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/img/icons/icon_384px.png",
+            "type": "image/png",
+            "sizes": "384x384",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/img/icons/icon_512px.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "maskable any"
+        }
+    ],
+    "shortcuts": [{
+            "name": "Register",
+            "short_name": "Register in site web",
+            "description": "Redirect register",
+            "url": "/register",
+            "icons": [{ "src": "/img/icons/icon_192px.png", "sizes": "192x192" }]
+        },
+        {
+            "name": "Login",
+            "short_name": "Login",
+            "description": "Redirect Login",
+            "url": "/login",
+            "icons": [{ "src": "/img/icons/icon_192px.png", "sizes": "192x192" }]
+        }
+    ]
+}

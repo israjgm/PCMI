@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cargarvideos",
+  "private_key_id": "477c83394da52dbf47252ed97ae6fa0bb2f71a02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbjLv9FnRBM8mt\nJ56t0uxvBPHXZiZn8ShWBvEw6dEsCcnJV3do/CjIbNNFQ/SYrzRfzISbRf9ARjF2\ndG6jQdyspLNS4O8KSLoXpnvREYE+Qqbcp75ySsEFoHo0AvD9uTfTaaBULaXk0sVY\njpDXG5JXnNWFMIDr2poicovX2QDgXTecC6ERNbNe9ejxV+bVMfxqSgQ19OlX7DUX\nwtoyTCgOrcwzODyz/QsfluAFnwSZBFLf06rhQOy88xwXcngaaTbXVJHtQC255WI8\nwTo8CbLfGzVxXfvAeAcsmQ7RRhjpH0oLFycdnhpUWhgRiBAwfxjkEXAIOK5uTRR9\nhQpXqMHxAgMBAAECggEAHabVSyiVnrxNjKmJ0R7tHTi3FVWOqq/I/aUzIxzfV+LB\nyZTX2XaAG7zLBWAv5082z7A/8w2D2+/FjAwj7xEmDO8UlA724mH8v3doEPGiTokM\nH/IGFulzJCx0Pyf0YpmFL9Lp0kIlZppbLkd3CtphqjvmZA5b9Rnl2f019T6TsTEn\npKGxHqvPeDrBDSDlIpcZBsEPp+wpscyC5n5d930A7Zps3tkvdpi4gPoN2zEFhzif\nB6RzcLDwWD8rlClGzvB1KyYw8bNorWbNZihJr5F7fFE/tqPYM86l6YuXAwlQkvVh\nyGsmEYAFOlOd5u/PqgTUxN3jDXFmRuY/heX8Kke85QKBgQDU1rU9Ztb9ObykGVrJ\nzJFzwlIQT/1H7z78+0m4I8CTl9kdAMdxoO7fPx4K3AP+aCa5OkuHFVbVjKIbLyUP\nbKtPONpe1wR6V2cdRfs0h1QFT/MDhnXQlWDE1B8hGBJr3pJ+lsDlhwjZknT4Jssd\nZmpwZKsCqCic5uA1Y5GRArClSwKBgQC7F+6F63kKSFdtNt2H2IdgzaFObhNNRYzO\nzjC07BRFIRZUT83BttxFyMW9l6B1zY+VgH5s2IJHsDFzQ3jPeuBjw7P2jqeE5Lor\niOzWG24UY7h0T/BeUnqBT9wNBYaiJ5ZZXKuyF/bhQpBtwLII3LfBErhqULSUbCPv\nBS7LpAb8MwKBgHHt8JxKlWB9bH4G2HNXHrDxXs4+kxzTc0smFCMOeEJJMT32Mcyg\nUd2Mwr8bYMPo6nmSO+W2RYIQQqH8jYEBMX45t6K2xD3c1WR1Fm/a1N33GuVTL3OU\n0nTp+zPS1+GIBbDfb6gtrU4RuK0wzt8Q+H7rVCMa8opyh6fsgXo3D2mbAoGAI4CD\nDn6EVWMs09iZaPG5nrDmbw+MMhmEgqm1rF8v6X5B0nXiQWQFoGhcvYFMPY5oNKJR\nWy4qapgQiiK/hf93HPdB6wNe3mTYvvIYnvhNhyj1E30ny34zKN6SjxYBWjvQ19wx\n6HWLr2sGJQ1vuybG56g5vlLaMV/j4bNGEfZqLOkCgYAuEkuXJsnL4QXLj2VAn1oj\nwIuQMtLGrUL8hAaCkIuqHAMB49tkC0YGSnJxLtwzBnPLfRYSgfhLQT34jQRzkWZ0\n6XTX+L+2FLb9ZWYXfQ14qj7spJ6WV1b2lPAhSg+Z1QwFW8jpV1N+8TmayCHAlfef\nbyx0LRiay/wqjvP8QyYeTQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "carga-videos@cargarvideos.iam.gserviceaccount.com",
+  "client_id": "110206032602299095195",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carga-videos%40cargarvideos.iam.gserviceaccount.com"
+}
